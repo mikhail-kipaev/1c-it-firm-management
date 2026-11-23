@@ -19,16 +19,16 @@
 ![Форма документа](screenshots/1_document_form.PNG)
 
 **2. Настройка СКД: Запрос с объединением регистров**
-![Запрос в СКД](screenshots/2_skd_query)
+![Запрос в СКД](screenshots/2_skd_query.PNG)
 
 **3. Ролевая модель доступа**
-![Роли](screenshots/3_roles.png)
+![Роли](screenshots/3_roles.PNG)
 
 **4. Структура подсистем конфигурации**
-![Подсистемы](screenshots/4_subsystems.png)
+![Подсистемы](screenshots/4_subsystems.PNG)
 
 **5. Тестовые данные: Расчет НДС в документе**
-![Тестовые данные](screenshots/5_test_data.png)
+![Тестовые данные](screenshots/5_test_data.PNG)
 
 ## Как запустить
 1. Скачайте файл `IT_Firm_Config.cf` из репозитория.
